@@ -2,7 +2,7 @@
 
 My STM32 Watch is a custom designed watch with a TFT display.
 
-***************************YOUTUBE VIDEO HERE*****************************************************
+[Video Demo](https://youtu.be/s8slsMMHKZk)
 
 ## The Code
 
